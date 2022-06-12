@@ -34,11 +34,5 @@ E abaixo temos um pequeno conceito do que temos no projeto.
 - Seletor
 - Propriedade e Valor
 
-# Conceitos
-- Cascata
-- Especificidade
-- Box Model
-- Display block e inline
-
 ### imagem bola de cristal
 https://gist.githubusercontent.com/maykbrito/0acdf4ce919838ffed50915a31fc5b23/raw/6f4dd01ec3116428ec4c99255944cb9ac7927590/cristal-ball.svg
